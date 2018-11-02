@@ -1,0 +1,24 @@
+{
+  "name": "surf-dator",
+  "version": "1.0.0",
+  "description": "Hello this is my first node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "body-parser-xml": "^1.1.0",
+    "express": "^4.16.3",
+    "jsonfile": "^5.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "npm": "^6.4.1",
+    "sqlite3": "^4.0.2"
+  }
+}
